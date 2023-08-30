@@ -13,41 +13,36 @@
 ## icons-eclipse-smarthome-classic adapter for ioBroker
 
 icons usable from ioBroker vizualizations like webui, vis, ...
-extracted from ioBroker.habpanel
+extracted from ioBroker.habpanel (https://github.com/iobroker-community-adapters/ioBroker.habpanel/tree/master/src/assets/icons)
 
-### DISCLAIMER
+original source: https://www.openhab.org/docs/configuration/iconsets/classic/
+licence seems to be EPL: https://github.com/eclipse-archived/smarthome/blob/master/extensions/ui/iconset/org.eclipse.smarthome.ui.iconset.classic/NOTICE
 
-Please make sure that you consider copyrights and trademarks when you use names or logos of a company and add a disclaimer to your README.
-You can check other adapters for examples or ask in the developer community. Using a name or logo of a company without permission may cause legal problems for you.
+## Credits
+
+To the Eclipse Foundation for creating the icons
 
 ## Changelog
 <!--
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-
-### **WORK IN PROGRESS**
+### 1.0.0 (2023-08-30)
 * (jogibear9988) initial release
 
 ## License
-MIT License
+EPL
 
 Copyright (c) 2023 jogibear9988 <jochen.kuehner@gmx.de>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This program and the accompanying materials
+are made available under the terms of the Eclipse Public License v2.0
+and Eclipse Distribution License v1.0 which accompany this distribution.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The Eclipse Public License is available at
+  https://www.eclipse.org/legal/epl-2.0/
+and the Eclipse Distribution License is available at
+  https://www.eclipse.org/org/documents/edl-v10.php
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For an explanation of what dual-licensing means to you, see:
+https://www.eclipse.org/legal/eplfaq.php#DUALLIC

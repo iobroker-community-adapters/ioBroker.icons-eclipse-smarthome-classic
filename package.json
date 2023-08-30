@@ -1,16 +1,16 @@
 {
   "name": "iobroker.icons-eclipse-smarthome-classic",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "icons-eclipse-smarthome-classic",
   "author": {
     "name": "jogibear9988",
     "email": "jochen.kuehner@gmx.de"
   },
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic",
-  "license": "MIT",
+  "license": "EPL",
   "keywords": [
     "ioBroker",
-	"icons",
+    "icons",
     "template",
     "Smart Home",
     "home automation"
@@ -22,7 +22,6 @@
   "engines": {
     "node": ">= 16"
   },
-  "main": "README.md",
   "dependencies": {},
   "devDependencies": {
     "@alcalzone/release-script": "^3.6.0",
