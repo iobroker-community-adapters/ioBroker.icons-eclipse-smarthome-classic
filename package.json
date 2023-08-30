@@ -1,6 +1,6 @@
 {
   "name": "iobroker.icons-eclipse-smarthome-classic",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "icons-eclipse-smarthome-classic",
   "author": {
     "name": "jogibear9988",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "keywords": [
     "ioBroker",
-	"icons",
+    "icons",
     "template",
     "Smart Home",
     "home automation"

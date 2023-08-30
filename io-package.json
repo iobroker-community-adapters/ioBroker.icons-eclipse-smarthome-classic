@@ -1,71 +1,84 @@
 {
-    "common": {
-        "name": "icons-eclipse-smarthome-classic",
-        "version": "0.0.1",
-        "news": {
-            "0.0.1": {
-                "en": "initial release",
-                "de": "Erstveröffentlichung",
-                "ru": "Начальная версия",
-                "pt": "lançamento inicial",
-                "nl": "Eerste uitgave",
-                "fr": "Première version",
-                "it": "Versione iniziale",
-                "es": "Versión inicial",
-                "pl": "Pierwsze wydanie",
-                "uk": "Початкова версія",
-                "zh-cn": "首次出版"
-            }
-        },
-        "titleLang": {
-            "en": "icons eclipse smarthome classic",
-            "de": "icons eclipse smarthome classic",
-            "ru": "icons eclipse smarthome classic",
-            "pt": "icons eclipse smarthome classic",
-            "nl": "icons eclipse smarthome classic",
-            "fr": "icons eclipse smarthome classic",
-            "it": "icons eclipse smarthome classic",
-            "es": "icons eclipse smarthome classic",
-            "pl": "icons eclipse smarthome classic",
-            "uk": "icons eclipse smarthome classic",
-            "zh-cn": "icons eclipse smarthome classic"
-        },
-		"desc": {
-			"en": "Icons from Eclipse Smarthome Classic",
-			"de": "Icons von Eclipse Smarthome Classic",
-			"ru": "Иконки от Eclipse Smarthome Classic",
-			"pt": "Ícones de Eclipse Smarthome clássico",
-			"nl": "Icons van Eclipse Smarthome Classic",
-			"fr": "Icons de Eclipse Smarthome Classic",
-			"it": "Icone di Eclipse Smarthome Classic",
-			"es": "Iconos de Eclipse Smarthome Classic",
-			"pl": "Icons from Eclipse Smarthome Classic (ang.)",
-			"uk": "Ікона від Eclipse Smarthome Classic",
-			"zh-cn": "Eclipse Smarthomeic"	
-		},
-        "authors": [
-            "jogibear9988 <jochen.kuehner@gmx.de>"
-        ],
-        "keywords": [
-            "icons"
-        ],
-        "license": "MIT",
-        "platform": "Javascript/Node.js",
-        "icon": "icons-eclipse-smarthome-classic.png",
-        "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic/main/admin/icons-eclipse-smarthome-classic.png",
-        "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic/blob/main/README.md",
-        "loglevel": "info",
-        "onlyWWW": true,
-        "noConfig": true,
-        "singleton": true,
-        "type": "visualization-icons",
-        "mode": "none",
-		"adminUI": {
-			"config": "none"
-		}
+  "common": {
+    "name": "icons-eclipse-smarthome-classic",
+    "version": "1.0.0",
+    "news": {
+      "1.0.0": {
+        "en": "initial release",
+        "de": "erstausstrahlung",
+        "ru": "начальный выпуск",
+        "pt": "lançamento inicial",
+        "nl": "niet",
+        "fr": "initial release",
+        "it": "rilascio iniziale",
+        "es": "liberación inicial",
+        "pl": "pierwsze wydanie",
+        "uk": "початковий реліз",
+        "zh-cn": "初步释放"
+      },
+      "0.0.1": {
+        "en": "initial release",
+        "de": "Erstveröffentlichung",
+        "ru": "Начальная версия",
+        "pt": "lançamento inicial",
+        "nl": "Eerste uitgave",
+        "fr": "Première version",
+        "it": "Versione iniziale",
+        "es": "Versión inicial",
+        "pl": "Pierwsze wydanie",
+        "uk": "Початкова версія",
+        "zh-cn": "首次出版"
+      }
     },
-    "objects": [],
-    "instanceObjects": [],
-	"native": {}
+    "titleLang": {
+      "en": "icons eclipse smarthome classic",
+      "de": "icons eclipse smarthome classic",
+      "ru": "icons eclipse smarthome classic",
+      "pt": "icons eclipse smarthome classic",
+      "nl": "icons eclipse smarthome classic",
+      "fr": "icons eclipse smarthome classic",
+      "it": "icons eclipse smarthome classic",
+      "es": "icons eclipse smarthome classic",
+      "pl": "icons eclipse smarthome classic",
+      "uk": "icons eclipse smarthome classic",
+      "zh-cn": "icons eclipse smarthome classic"
+    },
+    "desc": {
+      "en": "Icons from Eclipse Smarthome Classic",
+      "de": "Icons von Eclipse Smarthome Classic",
+      "ru": "Иконки от Eclipse Smarthome Classic",
+      "pt": "Ícones de Eclipse Smarthome clássico",
+      "nl": "Icons van Eclipse Smarthome Classic",
+      "fr": "Icons de Eclipse Smarthome Classic",
+      "it": "Icone di Eclipse Smarthome Classic",
+      "es": "Iconos de Eclipse Smarthome Classic",
+      "pl": "Icons from Eclipse Smarthome Classic (ang.)",
+      "uk": "Ікона від Eclipse Smarthome Classic",
+      "zh-cn": "Eclipse Smarthomeic"
+    },
+    "authors": [
+      "jogibear9988 <jochen.kuehner@gmx.de>"
+    ],
+    "keywords": [
+      "icons"
+    ],
+    "license": "MIT",
+    "platform": "Javascript/Node.js",
+    "icon": "icons-eclipse-smarthome-classic.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic/main/admin/icons-eclipse-smarthome-classic.png",
+    "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic/blob/main/README.md",
+    "loglevel": "info",
+    "onlyWWW": true,
+    "noConfig": true,
+    "singleton": true,
+    "type": "visualization-icons",
+    "mode": "none",
+    "adminUI": {
+      "config": "none"
+    }
+  },
+  "objects": [],
+  "instanceObjects": [],
+  "native": {}
 }
