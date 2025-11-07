@@ -69,6 +69,7 @@
     "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic/main/admin/icons-eclipse-smarthome-classic.png",
     "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic/blob/main/README.md",
     "loglevel": "info",
+    "tier": 3,
     "onlyWWW": true,
     "noConfig": true,
     "singleton": true,
