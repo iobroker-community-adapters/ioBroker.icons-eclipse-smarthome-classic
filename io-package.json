@@ -62,7 +62,10 @@
     "keywords": [
       "icons"
     ],
-    "license": "EPL",
+    "licenseInformation": {
+      "type": "free",
+      "license": "EPL"
+    },
     "platform": "Javascript/Node.js",
     "icon": "icons-eclipse-smarthome-classic.png",
     "enabled": true,
