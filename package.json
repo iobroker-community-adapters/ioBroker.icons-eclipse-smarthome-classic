@@ -2,10 +2,10 @@
   "name": "iobroker.icons-eclipse-smarthome-classic",
   "version": "1.0.0",
   "description": "icons-eclipse-smarthome-classic",
-  "author": {
-    "name": "jogibear9988",
-    "email": "jochen.kuehner@gmx.de"
-  },
+  "author": "jogibear9988 <jochen.kuehner@gmx.de>",
+  "contributors": [
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
+  ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic",
   "license": "EPL",
   "keywords": [
