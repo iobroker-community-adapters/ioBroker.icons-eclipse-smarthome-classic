@@ -20,7 +20,7 @@
     "url": "https://github.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic.git"
   },
   "engines": {
-    "node": ">= 16"
+    "node": ">= 20"
   },
   "dependencies": {},
   "devDependencies": {
