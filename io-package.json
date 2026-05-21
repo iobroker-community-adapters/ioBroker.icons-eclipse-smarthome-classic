@@ -71,7 +71,6 @@
     "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-eclipse-smarthome-classic/blob/main/README.md",
     "loglevel": "info",
     "onlyWWW": true,
-    "noConfig": true,
     "singleton": true,
     "type": "visualization-icons",
     "mode": "none",
